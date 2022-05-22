@@ -1,1 +1,1 @@
-# -Gabyph-hg_2_delta
+hg_2_delta
